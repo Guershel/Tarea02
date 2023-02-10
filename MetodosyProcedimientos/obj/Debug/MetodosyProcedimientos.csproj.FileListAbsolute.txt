@@ -1,0 +1,8 @@
+C:\Users\huerc\OneDrive\Documentos\Programacion 2\Seccion2\MetodosyProcedimientos\MetodosyProcedimientos\bin\Debug\MetodosyProcedimientos.exe.config
+C:\Users\huerc\OneDrive\Documentos\Programacion 2\Seccion2\MetodosyProcedimientos\MetodosyProcedimientos\bin\Debug\MetodosyProcedimientos.exe
+C:\Users\huerc\OneDrive\Documentos\Programacion 2\Seccion2\MetodosyProcedimientos\MetodosyProcedimientos\bin\Debug\MetodosyProcedimientos.pdb
+C:\Users\huerc\OneDrive\Documentos\Programacion 2\Seccion2\MetodosyProcedimientos\MetodosyProcedimientos\obj\Debug\MetodosyProcedimientos.csproj.AssemblyReference.cache
+C:\Users\huerc\OneDrive\Documentos\Programacion 2\Seccion2\MetodosyProcedimientos\MetodosyProcedimientos\obj\Debug\MetodosyProcedimientos.csproj.SuggestedBindingRedirects.cache
+C:\Users\huerc\OneDrive\Documentos\Programacion 2\Seccion2\MetodosyProcedimientos\MetodosyProcedimientos\obj\Debug\MetodosyProcedimientos.csproj.CoreCompileInputs.cache
+C:\Users\huerc\OneDrive\Documentos\Programacion 2\Seccion2\MetodosyProcedimientos\MetodosyProcedimientos\obj\Debug\MetodosyProcedimientos.exe
+C:\Users\huerc\OneDrive\Documentos\Programacion 2\Seccion2\MetodosyProcedimientos\MetodosyProcedimientos\obj\Debug\MetodosyProcedimientos.pdb
